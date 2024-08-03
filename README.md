@@ -9,3 +9,11 @@
 - Computing delta at each node to maintain a hedged portfolio
 - Adding to the volatility of the underlying asset, matching u and d such that they accounts for the asset's volatility
 - Option prices as N increases converges to a certain value
+
+## American Options Pricing
+- Using Binomial Tree Model to understand price evolution of the underlying
+- Adding call option payoffs at Maturity
+- Calculating option's prices at each node comparing European counter-part and the payoff from early exercise
+- Option prices as N increases converges to a certain value
+- Adding to the volatility of the underlying asset, matching u and d such that they accounts for the asset's volatility
+- Computing delta at each node to maintain a dynamically delta hedged portfolio
